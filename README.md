@@ -1,6 +1,6 @@
 # Jalapeño Timer
 
-A pomodoro timer, but spicy.
+The spicy pomodoro timer.
 
 ## Dev & Design
 
