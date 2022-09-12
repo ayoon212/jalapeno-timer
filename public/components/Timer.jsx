@@ -21,8 +21,8 @@ export default function Timer({ isRunning }) {
   }, [isRunning]);
 
   return (
-    <>
+    <div>
       {time}
-    </>
+    </div>
   );
 }
